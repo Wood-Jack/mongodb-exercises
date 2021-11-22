@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "6197cd110b5e20c71c965a59"
+  },
+  "title": "Star War",
+  "writer": "George Lucas",
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Peter Cushing",
+    "James Earl Jones"
+  ],
+  "year": 1977
+},{
+  "_id": {
+    "$oid": "6197ce2c0b5e20c71c965a5a"
+  },
+  "title": "Raiders of the Lost Ark",
+  "writer": "George Lucas",
+  "actors": [
+    "Harrison Ford"
+  ],
+  "year": 1981
+},{
+  "_id": {
+    "$oid": "6197cebd0b5e20c71c965a5b"
+  },
+  "title": "Fight Club",
+  "writer": "Chuck Palahniuk",
+  "year": 1999,
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton"
+  ]
+},{
+  "_id": {
+    "$oid": "6197d0640b5e20c71c965a5c"
+  },
+  "title": "Pulp Fiction",
+  "writer": "Quentin Tarantino",
+  "year": 1994,
+  "actors": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ]
+},{
+  "_id": {
+    "$oid": "6197d1e50b5e20c71c965a5d"
+  },
+  "title": "Inglorious Bastards",
+  "writer": "Quentin Tarantino",
+  "year": 2009,
+  "actors": [
+    "Brad Pitt",
+    "Diane Kruger",
+    "Eli Roth"
+  ]
+},{
+  "_id": {
+    "$oid": "6197d2760b5e20c71c965a5e"
+  },
+  "title": "The Hobbit: An Unexpected Journey",
+  "writer": "J.R.R. Tolkien",
+  "year": 2012,
+  "franchise": "The Hobbit",
+  "synopsis": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug"
+},{
+  "_id": {
+    "$oid": "6197d2c20b5e20c71c965a5f"
+  },
+  "title": "The Hobbit: The Desolation of Smaug",
+  "writer": "J.R.R. Tolkien",
+  "year": 2013,
+  "franchise": "The Hobbit",
+  "synopsis": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
+},{
+  "_id": {
+    "$oid": "6197d4f70b5e20c71c965a60"
+  },
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "writer": "J.R.R. Tolkien",
+  "year": 2012,
+  "franchise": "The Hobbit",
+  "synopsis": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."
+}]
